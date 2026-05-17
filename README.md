@@ -18,5 +18,3 @@
     </td>
   </tr>
 </table>
-<img width="2000" height="80" alt="piiner" src="https://github.com/user-attachments/assets/4dd36d42-cd7d-491d-9a95-7fd3098029ab" />
-
