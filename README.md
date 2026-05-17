@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Dotoe-chan
-- 👀 I’m interested in Creating games also pixel art.
-- 🌱 I’m currently learning GITHUB
+<img width="1530" height="330" alt="2026" src="https://github.com/user-attachments/assets/d3767208-6862-42ae-8bd0-522ddb54ae16" />
 
-<!---
-Dotoe-chan/Dotoe-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dotoe-chan&theme=moltack)
+
